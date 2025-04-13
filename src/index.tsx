@@ -10,7 +10,19 @@ app.route('/user', user)
 
 app.get('/', c => {
   console.log('tes dari ricky')
-  return c.text("ini halaman index")
+  return c.render(<h1>Hello!</h1>)
+  console.log('tes');
+  console.log('tes');
+  console.log('tes');
+  console.log('tes');
+  console.log('tes');
+  console.log('tes');
+  console.log('tes');
+  console.log('tes');
+  console.log('tes');
+  console.log('tes');
+  console.log('tes');
+  console.log('tes');
 })
 
 
