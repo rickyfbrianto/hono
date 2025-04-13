@@ -1,0 +1,2 @@
+GET http://localhost:5173/user/data/1
+Content-Type: application/json
